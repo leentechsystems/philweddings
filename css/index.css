@@ -32,7 +32,7 @@ body {
 
 
 .background {
-    background: #d4d4a8 url(../img/bg.png) no-repeat fixed center center;
+    background: #fff url(../img/bg.png) no-repeat fixed center center;
     height: 100%;
     left: 0;
     position: absolute;
@@ -88,6 +88,7 @@ h1 {
     position: relative;
     width: 32px;
 }
+
 .blockG {
     position: absolute;
     background-color: #FFFFFF;
@@ -238,7 +239,7 @@ h1 {
 }
 @-moz-keyframes fadeG {
     0% {
-        background-color: #000000
+        background-color: #1d9009
     }
     100% {
         background-color: #FFFFFF
@@ -246,7 +247,7 @@ h1 {
 }
 @-webkit-keyframes fadeG {
     0% {
-        background-color: #000000
+        background-color: #1d9009
     }
     100% {
         background-color: #FFFFFF
@@ -254,7 +255,7 @@ h1 {
 }
 @-ms-keyframes fadeG {
     0% {
-        background-color: #000000
+        background-color: #1d9009
     }
     100% {
         background-color: #FFFFFF
@@ -262,7 +263,7 @@ h1 {
 }
 @-o-keyframes fadeG {
     0% {
-        background-color: #000000
+        background-color: #1d9009
     }
     100% {
         background-color: #FFFFFF
@@ -270,10 +271,11 @@ h1 {
 }
 @keyframes fadeG {
     0% {
-        background-color: #000000
+        background-color: #1d9009
     }
     100% {
         background-color: #FFFFFF
     }
 }
+
 - See more at:http://cssload.net/#sthash.4w6luejP.dpuf
